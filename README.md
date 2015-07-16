@@ -1,4 +1,4 @@
-![Waffle.IO](www.waffle.io/LewisTehMinerz/Timia2109-And-CubeSpace-Help)Waffle.IO has the list of your issues!
+![https://badge.waffle.io/LewisTehMinerz/Timia2109-And-CubeSpace-Help.png](www.waffle.io/LewisTehMinerz/Timia2109-And-CubeSpace-Help)Waffle.IO has the list of your issues!
 
 
 # Timia2109-And-CubeSpace-Help
